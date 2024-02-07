@@ -32,7 +32,7 @@ Tous les contributeurs sont tenus de respecter notre code de conduite, disponibl
 
 ## Besoin d'Aide ?
 
-Si vous avez des questions ou avez besoin d'aide pour contribuer, n'hésitez pas à contacter l'équipe de développement à l'adresse e-mail suivante : dev-team@votre-etablissement.com.
+Si vous avez des questions ou avez besoin d'aide pour contribuer, n'hésitez pas à contacter l'équipe de développement à l'adresse e-mail suivante : dev-team@fitty.antaria.ovh.
 
 ---
 
