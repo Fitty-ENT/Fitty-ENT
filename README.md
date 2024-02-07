@@ -1,10 +1,10 @@
   GNU nano 6.2                                                                                                                                   README.md                                                                                                                                            
-# Bienvenue sur le projet [Nom du Projet]
+# Bienvenue sur le projet Fitty ENT
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Issues](https://img.shields.io/github/issues/votre-utilisateur/nom-du-projet.svg)](https://github.com/votre-utilisateur/nom-du-projet/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/Fitty-ENT/Fitty-ENT.svg)](https://github.com/Fitty-ENT/Fitty-ENT/issues)
 
-Bienvenue sur le projet [Fitty ENT], un environnement numérique de travail (ENT) open source conçu pour les établissements scolaires. Notre objectif est d'offrir une plateforme flexible et personnalisable pour l'apprentissage, la communication et la gestion des ressources pédagogiques.
+Bienvenue sur le projet Fitty ENT, un environnement numérique de travail (ENT) open source conçu pour les établissements scolaires. Notre objectif est d'offrir une plateforme flexible et personnalisable pour l'apprentissage, la communication et la gestion des ressources pédagogiques.
 
 ## Fonctionnalités
 
@@ -16,11 +16,11 @@ Bienvenue sur le projet [Fitty ENT], un environnement numérique de travail (ENT
 
 ## Contribution
 
-Les contributions à [Fitty ENT] sont les bienvenues ! Si vous souhaitez contribuer au développement de l'ENT, veuillez consulter notre guide de contribution dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md) pour obtenir des instructions sur la façon de démarrer.
+Les contributions à Fitty ENT sont les bienvenues ! Si vous souhaitez contribuer au développement de l'ENT, veuillez consulter notre guide de contribution dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md) pour obtenir des instructions sur la façon de démarrer.
 
 ## Documentation
 
-Consultez la documentation complète du projet [Fitty ENT] dans le fichier [DOCUMENTATION.md](DOCUMENTATION.md) pour obtenir des instructions détaillées sur l'installation, la configuration et l'utilisation de l'application.
+Consultez la documentation complète du projet Fitty ENT dans le fichier [DOCUMENTATION.md](DOCUMENTATION.md) pour obtenir des instructions détaillées sur l'installation, la configuration et l'utilisation de l'application.
 
 ## Support
 
