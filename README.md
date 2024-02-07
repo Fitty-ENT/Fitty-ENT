@@ -1,4 +1,3 @@
-  GNU nano 6.2                                                                                                                                   README.md                                                                                                                                            
 # Bienvenue sur le projet Fitty ENT
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -33,3 +32,13 @@ Ce projet est sous licence [MIT](LICENSE).
 ---
 
 © [Fitty ENT](https://fitty.antaria.ovh)
+
+
+
+
+
+
+
+
+
+
