@@ -47,5 +47,3 @@ Consultez la section "Aide" de l'interface utilisateur pour obtenir des instruct
 Si vous rencontrez des problèmes lors de l'installation, de la configuration ou de l'utilisation de l'ENT, n'hésitez pas à contacter notre équipe de support à contact@fitty.antaria.ovh. Nous sommes là pour vous aider !
 
 © Fitty ENT 2023
-
-N'oubliez pas d'adapter ce contenu en fonction des spécificités de votre ENT et des instructions nécessaires pour l'installation, la configuration et l'utilisation de l'application.
