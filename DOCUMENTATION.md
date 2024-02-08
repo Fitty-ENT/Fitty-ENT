@@ -1,8 +1,8 @@
-# Documentation de Fitty ENT
+# Documentation de Fitty ENT 📚
 
 Bienvenue dans la documentation de l'environnement numérique de travail (ENT) de [Nom de l'Établissement]. Cette documentation fournit des instructions détaillées sur l'installation, la configuration et l'utilisation de l'application.
 
-## Installation
+## Installation 👈
 
 Pour installer l'ENT sur votre propre serveur, suivez les étapes suivantes :
 
@@ -16,9 +16,9 @@ Pour installer l'ENT sur votre propre serveur, suivez les étapes suivantes :
 
 3. Démarrez l'application en exécutant la commande suivante :
     ```bash
-    npm start
+    npm run launch
 
-4. Accédez à l'ENT dans votre navigateur en vous rendant à l'adresse http://localhost:3000.
+4. Accédez à l'ENT dans votre navigateur en vous rendant à l'adresse https://l'adresse de votre site:8080
 
 ## Configuration
   
